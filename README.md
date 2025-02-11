@@ -1,0 +1,1 @@
+# Commandline-Perintah-dasar-terminal-Ubuntu.
